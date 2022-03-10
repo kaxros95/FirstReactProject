@@ -53,9 +53,3 @@ class App extends React.Component {
 }
 
 export default App;
-
-//(2)tha ekana ilopoihsh tou function activateInner()
-//opou me ena if tha ekana elegxo an to element x (x)
-//einai megalitero tou 0 tote na pernei ta child-xrwmata
-
-//(3) gia to koumpi save den gnwrizw thn ypoloipohsh tou
